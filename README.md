@@ -1,5 +1,5 @@
 # siptesttool
-sip呼叫windows版 测试工具
+sip windows版 自动化 测试工具，可以批量注册、呼叫等
 
 1、autocall.csv 
 该文件为批量呼叫的时候 账户的配置，包括本地账户和被叫号码
